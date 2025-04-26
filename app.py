@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+## teste
+
 st.title("Data Storytelling: Análise de Vendas")
 
 # Contexto e história
