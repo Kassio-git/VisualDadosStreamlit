@@ -13,7 +13,7 @@ Acompanhe a seguir uma análise detalhada das vendas realizadas nos últimos mes
 """)
 
 # Carregar os dados
-data = pd.read_csv('../Atividade aula 1/sales_data.csv')
+data = pd.read_csv('./sales_data.csv')
 
 # Limpeza básica: remover duplicatas
 data = data.drop_duplicates()
